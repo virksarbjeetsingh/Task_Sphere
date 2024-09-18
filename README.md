@@ -6,7 +6,7 @@ Instruction How to Use:
 2. it will redirect you to codesandbox editor and downloading the useful dependencies automatically.
 3. You will see a preview (if you cannot see preview button then Go to Terminal -> Port -> forwarded address of 3000 -> click on open browser) .
 4. After all these steps you will able to see the Website of as a result.
-5. Note: It is a Task Sphere App in which you can write your tasks using React.
+5. Note: It is a Task Sphere App using React in which you can write your tasks.
 6. Thankyou.
 
 Additional Info: 
